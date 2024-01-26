@@ -1,0 +1,5 @@
+# What are the risks when using WalletConnect?
+
+Absolutely, it's crucial for users to exercise caution and only use DeFi services provided by reputable and well-regarded entities. WalletConnect, in this context, serves as a bridge between the DeFi service website and the user's wallet, such as Panaroma Decentralized. When a user initiates an action on the DeFi service website that involves a fund transfer, Panaroma Decentralized wallet presents a confirmation window to approve or deny the transaction. However, the wallet itself has limited means to understand the specific context of the transaction. 
+
+In the event that a malicious actor takes control of the website of a DeFi service, there is a potential risk that a user might be presented with a confirmation window that goes beyond their original intentions, leading to unintended and potentially harmful transactions. Therefore, it's crucial to only interact with DeFi services from trusted sources to minimize the risk of such malicious activities. 

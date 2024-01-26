@@ -1,0 +1,3 @@
+# Why ETH needed to send tokens?
+
+Executing transactions on the Ethereum blockchain, including the transfer of ERC20 tokens from one address to another, requires the sender to pay transaction fees in ETH. These fees are associated with the computational resources required to process and validate transactions on the Ethereum network. Therefore, when engaging in activities such as transferring ERC20 tokens, users need to ensure they have a sufficient amount of ETH in their wallet to cover the associated transaction fees

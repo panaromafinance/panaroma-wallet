@@ -1,0 +1,3 @@
+# Why is a transaction value shown incorrectly in a recent transaction?
+
+In order to display the total transferred cryptocurrency amount in fiat (USD, EUR, etc.) for past crypto transactions, Panaroma Decentralized relies on historical cryptocurrency rates. While future updates may introduce additional sources, including the option to obtain historical rates from decentralized cryptocurrency exchanges, users should be aware that if the historical exchange rate in the Panaroma Decentralized app is incorrect, the transaction amount shown in fiat may be inaccurate. In such cases, it's recommended to refer to the actual amount transferred in cryptocurrency for accuracy. 
