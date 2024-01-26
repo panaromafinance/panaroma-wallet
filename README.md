@@ -1,2 +1,2 @@
-# panaroma-wallet
+# Panaroma Wallet
 Panaroma wallet FAQ and Academy
